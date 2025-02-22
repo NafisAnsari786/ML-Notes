@@ -39,6 +39,7 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nafisansari786&theme=onestar&margin-w=10&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nafisansari786&theme=algolia&margin-w=10&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
+
 
