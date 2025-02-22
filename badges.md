@@ -38,10 +38,7 @@
 </p>
 
 <!-- GitHub Trophies -->
-### 🏆 GitHub Trophies  
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NafisAnsari786&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nafisansari786&theme=onestar&margin-w=10&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
