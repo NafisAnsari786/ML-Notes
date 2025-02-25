@@ -1,9 +1,5 @@
 
-
-
 ## **ML Notes to refer**
-
-
 
 <p align="center">
   <!-- Programming & Analytics -->
