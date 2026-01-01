@@ -2,7 +2,7 @@
 
 ## **ML Notes to refer**
 
-<p align="center">
+<!-- <p align="center">
   <!-- Programming & Analytics -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -44,4 +44,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nafisansari786&theme=onestar&margin-w=10&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+</p> -->
